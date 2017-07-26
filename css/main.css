@@ -1,0 +1,29 @@
+
+.base{
+	width: 700px;
+	height: 400px;
+	position: absolute;
+	left: 22%;
+	top: 20%;
+	z-index: -1;
+}
+
+.img-lab{
+	width: 700px;
+	height: 400px;
+	position: absolute;
+	z-index: -1;
+}
+
+.bg-gris {
+ 	width:300px;
+	height: 800px;
+	background-color: transparent;
+	position: relative;
+	left:575px;
+	top: -400px;
+	border-left: 100px solid transparent;
+	border-bottom: 50px solid grey;
+	z-index: 2;
+
+}
